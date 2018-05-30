@@ -1,12 +1,12 @@
 ---
 title: "Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Prof. Zink's Lab at UMass Amherst"
 sitemap: false
 permalink: /
 ---
 
-We are a small, dynamic group at the [University of Massachusetts Amherst] under Professor Zink(https://www.umass.edu/). 
+We are a small, dynamic group at the [University of Massachusetts Amherst] (https://www.umass.edu/). 
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -39,6 +39,7 @@ We are a small, dynamic group at the [University of Massachusetts Amherst] under
   </a>
 </div>
 
+We work in the fields of sense-and-response sensor networks, distribution of high-bandwidth, high-volume data, and the design and analysis of long-distance wireless networks and Systems Engineering. Further research interests are in wide-area multimedia distribution for wired and wireless environments and network protocols. 
 
 
 

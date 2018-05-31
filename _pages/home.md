@@ -21,13 +21,13 @@ We are a small, dynamic group at the [University of Massachusetts Amherst] (http
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/team.jpg" alt="Slide 1" style="height: 500px"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/team.jpg" alt="Slide 1" style="height: 450px"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mike_radar.jpg" alt="Slide 2" style="height: 500px" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mike_radar.jpg" alt="Slide 2" style="height: 450px" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/drone_mz.jpg" alt="Slide 3" style="height: 500px"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/drone_mz.jpg" alt="Slide 3" style="height: 450px"/>
         </div>
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

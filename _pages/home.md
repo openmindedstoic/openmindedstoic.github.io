@@ -46,11 +46,9 @@ For further and more detailed information on our research <a href="research">cli
 <p>Our research is supported through funding from the <a href="">National Science Foundation</a>, the <a href="">National Weather Service</a>, and the <a href="">Office of Naval Reseach</a>. In addition Prof. Zink is currently the recipient of a Mercator Fellowship from the <a href="">Deutsche Forschungs Gemeinschaft</a>.</p> 
 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/teaching) **!**
- 
- 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
-
+<p>&copy 2016 Zink Lab. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
+<p>We are part of the <a href="https://www.ece.umass.edu/">Electrical and Computer Engineering Department</a> and the <a href="http://www.casa.umass.edu"> CASA Engineering Research Center</a> at <a href="https://www.umass.edu">the University of Massachusetts Amherts</a>.</p>
+             
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">

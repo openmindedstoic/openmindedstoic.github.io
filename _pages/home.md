@@ -40,13 +40,11 @@ We are a small, dynamic group at the [University of Massachusetts Amherst] (http
   </a>
 </div>
 
-We work in the fields of sense-and-response sensor networks, distribution of high-bandwidth, high-volume data, and the design and analysis of long-distance wireless networks and Systems Engineering. Further research interests are in wide-area multimedia distribution for wired and wireless environments and network protocols. 
+<p> Our lab focuses on the development of new mechanisms that contribute to the creation of the Future Internet. Our research focuses specifically on new algorithms, protocols, and systems that support Cyber-Physical and Multimedia Systems.
+For further and more detailed information on our research <a href="research">click here</a>).</p>
 
+<p>Our research is supported through funding from the <a href="">National Science Foundation</a>, the <a href="">National Weather Service</a>, and the <a href="">Office of Naval Reseach</a>. In addition Prof. Zink is currently the recipient of a Mercator Fellowship from the <a href="">Deutsche Forschungs Gemeinschaft</a>.</p> 
 
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/teaching) **!**
  

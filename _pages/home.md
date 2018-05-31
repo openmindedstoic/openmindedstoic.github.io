@@ -46,8 +46,6 @@ For further and more detailed information on our research <a href="research">cli
 <p>Our research is supported through funding from the <a href="">National Science Foundation</a>, the <a href="">National Weather Service</a>, and the <a href="">Office of Naval Reseach</a>. In addition Prof. Zink is currently the recipient of a Mercator Fellowship from the <a href="">Deutsche Forschungs Gemeinschaft</a>.</p> 
 
 
-<p>&copy 2016 Zink Lab. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-<p>We are part of the <a href="https://www.ece.umass.edu/">Electrical and Computer Engineering Department</a> and the <a href="http://www.casa.umass.edu"> CASA Engineering Research Center</a> at <a href="https://www.umass.edu">the University of Massachusetts Amherts</a>.</p>
              
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">

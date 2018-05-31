@@ -1,6 +1,13 @@
-- date: 03. May 2018
- headline: Mike is presenting our paper on <a href=""> An Evaluation of SDN and NFV Support for Parallel, Alternative Protocol Stack Operations</a> at <a href="http://icc2018.ieee-icc.org/">ICC 2018</a>.
-- date: 21. May 2018
-  headline: Only 3 weeks until the start of <a href="http://www.mmsys2018.org/">ACM Multimedia Systems 2018</a>. Take look at the very interesting <a href="http://www.mmsys2018.org/program/program/">program</a>.
-- date: 2. February 2018
-  headline: UMass produces <a href="https://www.umass.edu/researchnext/video/tracking-drones-weather-radar">short video</a> describing CASA's counter drone research."
+--- 
+- 
+  date: "03. May 2018"
+- 
+  headline: "Mike is presenting our paper on <a href=\"\"> An Evaluation of SDN and NFV Support for Parallel, Alternative Protocol Stack Operations</a> at <a href=\"http://icc2018.ieee-icc.org/\">ICC 2018</a>."
+- 
+  date: "21. May 2018"
+- 
+  headline: "Only 3 weeks until the start of <a href=\"http://www.mmsys2018.org/\">ACM Multimedia Systems 2018</a>. Take look at the very interesting <a href=\"http://www.mmsys2018.org/program/program/\">program</a>."
+- 
+  date: "2. February 2018"
+- 
+  headline: "UMass produces <a href=\"https://www.umass.edu/researchnext/video/tracking-drones-weather-radar\">short video</a> describing CASA's counter drone research.\""

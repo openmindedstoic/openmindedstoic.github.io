@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a small, dynamic group at the <a href="https://www.umass.edu/">[University of Massachusetts Amherst]</a>. 
+We are a small, dynamic group at the <a href="https://www.umass.edu/">University of Massachusetts Amherst</a>. 
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

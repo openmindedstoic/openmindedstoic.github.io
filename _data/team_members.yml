@@ -27,13 +27,14 @@
   education1: B.Eng. Unisinos University, Brazil
   education2: Visiting Student Sungkyunkwan University, Korea
   
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: PhD Student, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
-
+- name: <a href="https://ishitadasgupta.weebly.com/">Ishita Dasgupta</a>
+  photo: ishita.jpg
+  info: PhD Student, started Sep 2016
+  email: ishitadg@cs.umass.edu
+  number_educ: 2
+  education1: B.Tech in Computer Science, West Bengal University of Technology, India
+  education2: Masters in Computer Science, University of Massachusetts, Amherst, USA
+  
 - name: Maarten Leeuwenhoek
   photo: Maarten.png
   info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.

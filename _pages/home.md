@@ -41,9 +41,9 @@ We are a small, dynamic group at the <a href="https://www.umass.edu/">University
 </div>
 
 <p> Our lab focuses on the development of new mechanisms that contribute to the creation of the Future Internet. Our research focuses specifically on new algorithms, protocols, and systems that support Cyber-Physical and Multimedia Systems.
-For further and more detailed information on our research <a href="research">click here</a>).</p>
+For further and more detailed information on our research <a href="research">click here</a>.</p>
 
-<p>Our research is supported through funding from the <a href="">National Science Foundation</a>, the <a href="">National Weather Service</a>, and the <a href="">Office of Naval Reseach</a>. In addition Prof. Zink is currently the recipient of a Mercator Fellowship from the <a href="">Deutsche Forschungs Gemeinschaft</a>.</p> 
+<p>Our research is supported through funding from the <a href="https://www.nsf.gov/">National Science Foundation</a>, the <a href="https://www.weather.gov/">National Weather Service</a>, and the <a href="https://www.onr.navy.mil/">Office of Naval Reseach</a>. In addition Prof. Zink is currently the recipient of a Mercator Fellowship from the <a href="http://www.dfg.de/en/">Deutsche Forschungs Gemeinschaft</a>.</p> 
 
 
              

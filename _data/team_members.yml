@@ -1,15 +1,7 @@
-- name: Michael Zink
-  photo: zink.jpg
-  info: Associate Professor, started Jan 2003
-  email: zink@ecs.umass.edu
-  number_educ: 3
-  education1: Diploma TU Darmstadt, Germany
-  education2: PhD TU Darmstadt, Germany
-  education3: Postdoc UMass Amherst, USA
-  
+
 - name: Divyashri Bhat
   photo: divyashri.jpg
-  info: PhD Student, started ??
+  info: PhD Student, started 2012 (as Masters)
   email: dbhat@umass.edu
   number_educ: 2
   education1: B.Eng. Visvesvaraya Technological University, India

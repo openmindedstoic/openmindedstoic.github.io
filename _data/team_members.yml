@@ -10,8 +10,8 @@
 - name: Divyashri Bhat
   photo: divyashri.jpg
   info: PhD Student, started ??
-  email: dooheecho80@gmail.com
-  number_educ: 4
+  email: dbhat@umass.edu
+  number_educ: 2
   education1: B.Eng. Visvesvaraya Technological University, India
   education2: Master at UMass Amherst, USA
   
@@ -19,9 +19,8 @@
   photo: thiago.jpg
   info: PhD student, started Sep 2013
   email: tteixeira@umass.edu
-  number_educ: 2
+  number_educ: 1
   education1: B.Eng. Unisinos University, Brazil
-  education2: Visiting Student Sungkyunkwan University, Korea
   
 - name: <a href="https://ishitadasgupta.weebly.com/">Ishita Dasgupta</a>
   photo: ishita.jpg
@@ -37,7 +36,5 @@
   email: rdeshmukh@umass.edu
   number_educ: 1
   education1: Vellore Institute of Technology, Tamil Nadu, India
-  education2: 
-  education3: 
-  education4:  
+ 
   

@@ -9,11 +9,11 @@ permalink: /team/
 # Group Members
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [director](#director), [phd students](#phd-students), [master](#master), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Director
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.director %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -22,7 +22,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -47,14 +46,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
-  {% endif %}
- 
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
   {% endif %}
   
   </ul>

@@ -26,7 +26,7 @@
 - title: "Optimizing the Video Transcoding Workflow in Content Delivery Networks. In proceedings of the 6th ACM Multimedia Systems Conference (MMSys), 37-48, Portland OR, USA, February 2015."
   authors: Dilip Kumar Krishnappa, Michael Zink, and Ramesh Sitaram.
  
- 
+- title: ""  
 - title: "2014"
   authors: "*************"
   
@@ -44,7 +44,8 @@
 
 - title: "On the Feasibility of DASH Streaming in the Cloud, In Proceeding of NOSSDAV 2014, Singapore, March 2014."
   authors: Cong Wang, Michael Zink
-  
+
+- title: ""    
 - title: "2013"
   authors: "*************"
   
@@ -65,7 +66,8 @@
   
 - title: "GreenCache: Augmenting Off-the-Grid Cellular Towers with Multimedia Caches. In Proceeding of  the Multimedia Systems Conference (MMSys’13), Oslo, Norway, February 2013."
   authors: Navin Sharma, Dilip Kumar Krishnappa, David Irwin, Michael Zink, Prashant Shenoy.
-  
+
+- title: ""  
 - title: "2012"
   authors: "*************"
   
@@ -92,7 +94,8 @@
   
 - title: "Watching User Generated Videos with Prefetching. International Journal on Signal Processing: Image Communication. 27(4), 343-359, April 2012."
   authors: Samamon Khemmarat, Renjie Zhou, D. Krishnappa, Lixin Gao, and Michael Zink.
-  
+
+- title: ""  
 - title: "2011"
   authors: "*************"
   
@@ -120,6 +123,7 @@
 - title: "An Integrated Radar Infrasound Network for Meteorological Infrasound Detection and Analysis. In Proceeding of the 91st American Meteorological Society Annual Meeting, Seattle, WA, January 2011."
   authors: David Pepyne, Michael Zink, Jerald Brotzge, Eric Knapp, Alexander Mendes, Brian McCarthy, Sean Klaiber, and Bettina Benito‐Figueroa. 
 
+- title: ""  
 - title: "2010"
   authors: "*************"
   
@@ -132,6 +136,7 @@
 - title: "Resource Management in Data-Intensive Clouds: Opportunities and Challenges. In Proceedings of the 17th IEEE Workshop on Local and Metropolitan Area Networks (LANMAN), Long Branch, NJ, USA, May 2010."
   authors: David Irwin, Prashant Shenoy, Emmanuel Cecchet, and Michael Zink.
   
+- title: ""  
 - title: "2009"
   authors: "*************"
   
@@ -161,7 +166,8 @@
   
 - title: "Closed-loop Architecture for Distributed Collaborative Adaptive Sensing of the Atmosphere: Meteorological Command & Control. International Journal for Sensor Networks (IJSNET)(Vol.6 No.4). In print."
   authors: Michael Zink, Eric Lyons, David Westbrook, Jim Kurose, and David Pepyne.
-  
+
+- title: ""  
 - title: "2008"
   authors: "*************"
   
@@ -174,22 +180,26 @@
 - title: "Watch Global Cache Local: YouTube Network Traces at a Campus Network - Measurements and Implications. In Proceedings of MMCN 2008, San Jose, CA, USA, Jan 2008. Best Paper Award!"
   authors: Michael Zink, Kyoungwon Su, Yu Gu, and Jim Kurose.
 
+- title: ""  
 - title: "2007"
   authors: "*************"
   
 - title: "Multi-user Data Sharing in Radar Sensor Networks. In Proceedings of The 5th ACM Conference on Embedded Networked Sensor Systems (Sensys 2007), Sydney, Australia, Nov 2007."
   authors: Ming Li, Tingxin Yan, Deepak Ganesan, Eric Lyons, Prashant Shenoy, Arun Venkataramani, and Michael Zink.
-  url: http://www-net.cs.umass.edu/~zink/publications/SenSys07-Utility.pdf
+  link:
+    url: http://www-net.cs.umass.edu/~zink/publications/SenSys07-Utility.pdf
 
 - title: "The Impact of Directional Antenna Orientation, Spacing, and Channel Separation on Long-distance Multi-hop 802.11g Networks: A Measurement Study. In Proceedings of the third International Workshop on Wireless Network Measurements (WiNMee), Limassol, Cyprus, April 2007."
   authors: Timothy Ireland, Adam Nyzio, Michael Zink, Jim Kurose.
-  
+
+- title: ""  
 - title: "2006"
   authors: "*************"
   
 - title: "A Distributed Algorithm for Joint Sensing and Routing in Wireless Networks with Non-Steerable Directional Antennas. In Proceedings of the 14th IEEE International Conference on Network Protocols (ICNP'06), November, 2006."
   authors: hun Zhang, Jim Kurose, Yong Liu, Don Towsley, and Michael Zink.
-  
+
+- title: ""  
 - title: "2005"
   authors: "*************"
   

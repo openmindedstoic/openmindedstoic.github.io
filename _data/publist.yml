@@ -3,6 +3,33 @@
 
 - title: "2017"
   authors: "*************"
+  
+- title: ""
+  authors:
+
+- title: "Design and Analysis of QoE-Aware Quality Adaptation for DASH: A Spectrum-BasedApproach.ACM Transactions on Multimedia Computing, Communications and Applications.13, 3s, Article 45 (July 2017), 24 pages. DOI:https://doi.org/10.1145/3092839"
+  authors: Cong Wang, Divyashri Bhat, Amr Rizk, and Michael Zink.
+
+- title: "Where are the Sweet Spots? A Systematic Approach to Reproducible DASH Player Comparisons. In Proceedings of ACM Multimedia2017, Mountain View, CA, Oct. 2017."
+  authors: Denny Stohr, Alexander Frömmgen, Amr Rizk, Michael Zink, Ralf Steinmetz, Wolfgang Effelsberg.
+
+- title: "An Information Centric Networking Approach for Sensor to Vehicular Network Communication in Disasters. In Proceedings of the Workshop on Emergency Networks for Public Protection and Disaster Relief, Rome, Italy, Oct. 2017."
+  authors: Rajvardhan Deshmukh and Michael Zink.
+
+- title: "Efficient Crowd Sensing Task Distribution Through Context-aware NDN-based Geocast.InProceedings of the IEEE Conference onLocal Computer Networks (LCN), Oct. 2017, Singapore"
+  authors: The An Binh Nguyen, Pratyush Agnihotri, Christian Meurisch, Manisha Luthra, Rahul Dwarakanath, Jeremias Blendin, Doreen Böhnstedt, Michael Zink, Ralf Steinmetz.
+
+- title: "Model-based Design and Analysis of Cache Hierarchies. In Proceedings of IFIP Networking 2017, Stockholm, Sweden, June 2017"
+  authors: Amr Rizk, Michael Zink, Ramesh Sitaraman.
+
+- title: "Not so QUIC: A Performance Study of DASH over QUIC. In Proceedings of the 27th Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV'17). Taipei, Taiwan, June 2017"
+  authors: Divyashri Bhat, Amr Rizk, and Michael Zink.
+
+- title: "Network Assisted Content Distribution for Adaptive Bitrate Video Streaming.In Proceedings of the 8th International Conference on Multimedia Systems (MMSys 2017),Taipei, Taiwan, June 2017"
+  authors: Divyashri Bhat, Amr Rizk, Michael Zink, Ralf Steinmetz.
+
+- title: "Virtualizing Closed-loop Sensor Networks: A Case Study.In Proceedings of SENSORNETS 2017, Porto, Portugal, February 2017."
+  authors:Priyanka Kedalagudde and Michael Zink.
 
 
 - title: "2016"
@@ -17,7 +44,9 @@
 - title: "A walk through the geni experiment cycle. In Rick McGeer, Mark Berman, Chip Elliott, and Rob Ricci, editors, The GENI Book, chapter 10, pages 266–290.Springer, Springer Switzerland, 2016."
   authors: Thierry Rakotoarivelo, Guillaume Jourjon, Olivire Nehani, Max Ott, and Michael Zink.
   
-- title: ""  
+- title: "QoE Analysis of DASH Cross-Layer Dependencies by Extensive Network Emulation. In Proceedings of the 2016 workshop on QoE-based Analysis and Management of Data Communication Networks, Florianopolis, Brazil, August 2016."  
+  authors: Denny Stohr,Alexander Frömmgen,Jan Fornoff,Michael Zink,Alejandro Buchmann,Wolfgang Effelsberg.
+  
 - title: "2015"
   authors: "*************"
   

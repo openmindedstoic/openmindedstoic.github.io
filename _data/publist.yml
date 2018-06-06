@@ -6,10 +6,10 @@
 - title: "Measurement-based Flow Characterization in Centrally Controlled Networks. In Proceedings of the IEEE International Conference on Computer Communications INFOCOM (accepted for publication), 2016."
   authors: Zdravko Bozakov, Amr Rizk, Divyashri Bhat, and Michael Zink.
   
+- title: "2015"
+  
 - title: "Cache-centric Video Recommendation: An Approach to Improve the Efficiency of YouTube Caches. ACM Transactions on Multimedia Computing, Communications and Applications. 11(4),48:1-48:20, 2015."
   authors: Dilip Kumar Krishnappa, M. Zink, C. Griwodz, P. Halvorsen.
-  
-- title: "2015"
 
 - title: "Future Internets Escape the Simulator. Communications of the ACM. 58(6), 78-89, 2015."
   authors: Mark Berman, Piet Demeester, Jae Woo Lee, Kiran Nagaraja, Michael Zink, Didier Colle, Dilip Kumar Krishnappa, Dipankar Raychaudhuri, Henning Schulzrinne, Ivan Seskar, Sachin Sharma.
@@ -22,7 +22,9 @@
 
 - title: "Optimizing the Video Transcoding Workflow in Content Delivery Networks. In proceedings of the 6th ACM Multimedia Systems Conference (MMSys), 37-48, Portland OR, USA, February 2015."
   authors: Dilip Kumar Krishnappa, Michael Zink, and Ramesh Sitaram.
-
+  
+- title: "2014"
+  
 - title: "iSPUW: A Vision for Integrated Sensing and Prediction of Urban Water for Sustainable Cities. To appear in Proceedings of DyDEES, Boston, MA, USA, November 2014."
   authors: Seo D.J. , B. Kerke, M. Zink, N. Fang, J. Gao, X. Yu.
 
@@ -37,3 +39,24 @@
 
 - title: "On the Feasibility of DASH Streaming in the Cloud, In Proceeding of NOSSDAV 2014, Singapore, March 2014."
   authors: Cong Wang, Michael Zink
+  
+- title: "2013"
+
+- title: "Mobile User Experience for DASH and WebRTC Video Services. In International Packet Video Workshop 2013, San Jose, CA, USA, December 2013."
+  authors: Fraida Fund, Cong Wang, Yong Liu, Thanasis Korakis, Michael Zink, Shivendra Panwar.
+
+- title: "DASHing YouTube: An Analysis of Using DASH in YouTube Video Service. In IEEE LCN 2013, Sydney, Australia, October 2013."
+  authors: Dilip Kumar Krishnappa, Divyashri Bhat, and Michael Zink.
+
+- title: "CloudCast: Cloud Computing for Short-term Weather Forecasts. IEEE Computing Science in Science & Engineering Magazine. 15(4), 30-37, September 2013."
+  authors: Dilip Kumar Krishnappa, Eric Lyons, David Irwin, and Michael Zink.
+
+- title: "What should you Cache? A Global Analysis on YouTube Related Video Caching. In Proceeding of  NOSSDAV ’13, Oslo Norway, February 2013."
+  authors: Dilip Kumar Krishnappa, Michael Zink, Carsten Griwodz.
+
+- title: "Cache-centric Video Recommendation: An Approach to Improve the Efficiency of YouTube Caches. In Proceeding of  the Multimedia Systems Conference (MMSys’13), Oslo, Norway, February 2013."
+  authors: Dilip Kumar Krishnappa, Michael Zink, Carsten Griwodz, Pål Halvorsen.
+  
+- title: "GreenCache: Augmenting Off-the-Grid Cellular Towers with Multimedia Caches. In Proceeding of  the Multimedia Systems Conference (MMSys’13), Oslo, Norway, February 2013."
+  authors: Navin Sharma, Dilip Kumar Krishnappa, David Irwin, Michael Zink, Prashant Shenoy.
+  

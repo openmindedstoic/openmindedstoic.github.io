@@ -160,3 +160,36 @@
   
 - title: "Closed-loop Architecture for Distributed Collaborative Adaptive Sensing of the Atmosphere: Meteorological Command & Control. International Journal for Sensor Networks (IJSNET)(Vol.6 No.4). In print."
   authors: Michael Zink, Eric Lyons, David Westbrook, Jim Kurose, and David Pepyne.
+  
+- title: "2008"
+  authors: "*************"
+  
+- title: "OTGsim: Simulation of an Off-the-Grid Radar Network with High Sensing Energy Cost. In Proceeding of IEEE SECON 2008. Technical Report version of the paper."
+  authors: Brian Donovan, David McLaughlin, Michael Zink, Jim Kurose.
+
+- title: "Distributed Collaborative Adaptive Sensor Networks for Remote Sensing Applications. In Proceedings of American Control Conference, June 2008."
+  authors: Dave Pepyne, David Westbrook, Brenda Philips, Eric Lyons, Michael Zink, and Jim Kurose.
+
+- title: "Watch Global Cache Local: YouTube Network Traces at a Campus Network - Measurements and Implications. In Proceedings of MMCN 2008, San Jose, CA, USA, Jan 2008. Best Paper Award!"
+  authors: Michael Zink, Kyoungwon Su, Yu Gu, and Jim Kurose.
+
+- title: "2007"
+  authors: "*************"
+  
+- title: "Multi-user Data Sharing in Radar Sensor Networks. In Proceedings of The 5th ACM Conference on Embedded Networked Sensor Systems (Sensys 2007), Sydney, Australia, Nov 2007."
+  authors: Ming Li, Tingxin Yan, Deepak Ganesan, Eric Lyons, Prashant Shenoy, Arun Venkataramani, and Michael Zink.
+
+- title: "The Impact of Directional Antenna Orientation, Spacing, and Channel Separation on Long-distance Multi-hop 802.11g Networks: A Measurement Study. In Proceedings of the third International Workshop on Wireless Network Measurements (WiNMee), Limassol, Cyprus, April 2007."
+  authors: Timothy Ireland, Adam Nyzio, Michael Zink, Jim Kurose.
+  
+- title: "2006"
+  authors: "*************"
+  
+- title: "A Distributed Algorithm for Joint Sensing and Routing in Wireless Networks with Non-Steerable Directional Antennas. In Proceedings of the 14th IEEE International Conference on Network Protocols (ICNP'06), November, 2006."
+  authors: hun Zhang, Jim Kurose, Yong Liu, Don Towsley, and Michael Zink.
+  
+- title: "2005"
+  authors: "*************"
+  
+- title: "Meteorological Command and Control: An End-to-end Architecture for a Hazardous Weather Detection Sensor Network. In Proceedings of the Workshop on End-to-End, Sense-and-Respond Systems, Applications, and Services, Seattle, WA, USA, June 2005."
+  authors: Michael Zink, David Westbrook, Sherief Abdallah, Bryan Horling, Vijay Lakamraju, Eric Lyons, Victoria Manfredi, Jim Kurose, and Kurt Hondl.  

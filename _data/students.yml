@@ -7,10 +7,10 @@
 #  education2:  
 #  education3: 
 #  education4:  
-- name: Rajvardhan Deshmukh
-  photo: rock.jpg
-  info: Master Student
+- name: <a href="https://deshmukhrajvardhan.github.io/">Rajvardhan Deshmukh</a>
+  photo: raj.jpg
+  info: Master Student, started Sep 2016
   email: rdeshmukh@umass.edu
   number_educ: 1
-  education1: Vellore Institute of Technology, Tamil Nadu, India
+  education1: B.Tech in ECE,Vellore Institute of Technology, Tamil Nadu, India
  

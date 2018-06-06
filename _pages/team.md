@@ -9,7 +9,7 @@ permalink: /team/
 # Group Members
 
 
-Jump to [director](#director), [phd students](#phd-students), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni).
+Jump to [director](#director), [phd students](#phd-students), [master and bachelor students](#master-and-bachelor-students), [lab visitors](#lab-visitors).
 
 ## Director
 {% assign number_printed = 0 %}
@@ -199,7 +199,18 @@ Jump to [director](#director), [phd students](#phd-students), [master and bachel
   <tr>
     <td> Dilip Krishnappa Kumar, June 2015</td>
     <td> </td>
+    <td> Patrick Lieser, Fall 2017</td>
+  </tr>  
+  <tr>
+    <td> Nauman Javed, June 2014</td>
     <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 

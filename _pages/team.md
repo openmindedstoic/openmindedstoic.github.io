@@ -190,11 +190,16 @@ Jump to [director](#director), [phd students](#phd-students), [master and bachel
 <tr><th>PhD Students</th>
     <th>Master Students</th>
     <th>Visitors</th>
-  </tr>
+</tr>
   <tr>
     <td>Cong Wang, Fall 2017</td>
     <td>Bhushan Suresh, Spring 2018</td>
     <td>Amr Rizk, Spring 2016</td>    
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 

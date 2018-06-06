@@ -192,17 +192,17 @@ Jump to [director](#director), [phd students](#phd-students), [master and bachel
     <th>Visitors</th>
 </tr>
   <tr>
-    <td>Cong Wang, Fall 2017</td>
+    <td>Cong Wang, Fall 2017, now at UNC/RENCI</td>
     <td>Bhushan Suresh, Spring 2018</td>
-    <td>Amr Rizk, Spring 2016</td>    
+    <td>Amr Rizk, Spring 2016, TU Darmstadt</td>    
   </tr>
   <tr>
-    <td> Dilip Krishnappa Kumar, June 2015</td>
+    <td> Dilip Krishnappa Kumar, June 2015, now at Akamai</td>
     <td> </td>
-    <td> Patrick Lieser, Fall 2017</td>
+    <td> Patrick Lieser, Fall 2017, TU Darmstadt</td>
   </tr>  
   <tr>
-    <td> Nauman Javed, June 2014</td>
+    <td> Nauman Javed, June 2014, now at Gaikai</td>
     <td> </td>
     <td> </td>
   </tr>

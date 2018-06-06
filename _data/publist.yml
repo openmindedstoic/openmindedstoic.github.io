@@ -1,23 +1,9 @@
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
-  link:
-    url: https://arxiv.org/abs/1712.08620
-    display:  arxiv:1712.08620 (2017)
-  highlight: 1
-  news2: 
+- title: "SQUAD: A Spectrum-based Quality Adaptation for Dynamic Adaptive Streaming over HTTP. In Proceedings of the ACM Multimedia Systems Conference (accepted for publication), 2016."
+  authors: Cong Wang, Amr Rizk, and Michael Zink. 
 
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
-  image: dummy.png
-  description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
-  highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
-
+- title: "Measurement-based Flow Characterization in Centrally Controlled Networks. In Proceedings of the IEEE International Conference on Computer Communications INFOCOM (accepted for publication), 2016."
+  authors: Zdravko Bozakov, Amr Rizk, Divyashri Bhat, and Michael Zink.
+  
 - title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
   image: dummy.png
   description: ""

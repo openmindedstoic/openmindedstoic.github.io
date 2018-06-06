@@ -1,35 +1,36 @@
-- year: "2016"
-  - title: "SQUAD: A Spectrum-based Quality Adaptation for Dynamic Adaptive Streaming over HTTP. In Proceedings of the ACM Multimedia Systems Conference (accepted for publication), 2016."
-    authors: Cong Wang, Amr Rizk, and Michael Zink. 
+- date: "2016"
 
-  - title: "Measurement-based Flow Characterization in Centrally Controlled Networks. In Proceedings of the IEEE International Conference on Computer Communications INFOCOM (accepted for publication), 2016."
-    authors: Zdravko Bozakov, Amr Rizk, Divyashri Bhat, and Michael Zink.
+- title: "SQUAD: A Spectrum-based Quality Adaptation for Dynamic Adaptive Streaming over HTTP. In Proceedings of the ACM Multimedia Systems Conference (accepted for publication), 2016."
+  authors: Cong Wang, Amr Rizk, and Michael Zink. 
+
+- title: "Measurement-based Flow Characterization in Centrally Controlled Networks. In Proceedings of the IEEE International Conference on Computer Communications INFOCOM (accepted for publication), 2016."
+  authors: Zdravko Bozakov, Amr Rizk, Divyashri Bhat, and Michael Zink.
   
-  - title: "Cache-centric Video Recommendation: An Approach to Improve the Efficiency of YouTube Caches. ACM Transactions on Multimedia Computing, Communications and Applications. 11(4),48:1-48:20, 2015."
-    authors: Dilip Kumar Krishnappa, M. Zink, C. Griwodz, P. Halvorsen.
+- title: "Cache-centric Video Recommendation: An Approach to Improve the Efficiency of YouTube Caches. ACM Transactions on Multimedia Computing, Communications and Applications. 11(4),48:1-48:20, 2015."
+  authors: Dilip Kumar Krishnappa, M. Zink, C. Griwodz, P. Halvorsen.
   
 - year: "2015"
-  - title: "Future Internets Escape the Simulator. Communications of the ACM. 58(6), 78-89, 2015."
-    authors: Mark Berman, Piet Demeester, Jae Woo Lee, Kiran Nagaraja, Michael Zink, Didier Colle, Dilip Kumar Krishnappa, Dipankar Raychaudhuri, Henning Schulzrinne, Ivan Seskar, Sachin Sharma.
 
-  - title: "Optimizing Parallel HPC Applications for Green Energy Sources. In Proceedings of the sixth Green and Sustainable Computing Conference, Las Vegas, USA, December 2015."
-    authors: Cong Wang, Michael Zink, and David Irwin.
+- title: "Future Internets Escape the Simulator. Communications of the ACM. 58(6), 78-89, 2015."
+  authors: Mark Berman, Piet Demeester, Jae Woo Lee, Kiran Nagaraja, Michael Zink, Didier Colle, Dilip Kumar Krishnappa, Dipankar Raychaudhuri, Henning Schulzrinne, Ivan Seskar, Sachin Sharma.
 
-  - title: "A load balancing approach for adaptive bitrate streaming in Information Centric networks. In Proceedings of Workshop on Multimedia Streaming in Information Centric Networks. Torino, Italy, July 2015."
-    authors: Divyashri Bhat, Cong Wang, Amr Rizk, Michael Zink.
+- title: "Optimizing Parallel HPC Applications for Green Energy Sources. In Proceedings of the sixth Green and Sustainable Computing Conference, Las Vegas, USA, December 2015."
+  authors: Cong Wang, Michael Zink, and David Irwin.
 
-  - title: "Optimizing the Video Transcoding Workflow in Content Delivery Networks. In proceedings of the 6th ACM Multimedia Systems Conference (MMSys), 37-48, Portland OR, USA, February 2015."
-    authors: Dilip Kumar Krishnappa, Michael Zink, and Ramesh Sitaram.
-    
-- year: "2014"
-  - title: "iSPUW: A Vision for Integrated Sensing and Prediction of Urban Water for Sustainable Cities. To appear in Proceedings of DyDEES, Boston, MA, USA, November 2014."
-    authors: Seo D.J. , B. Kerke, M. Zink, N. Fang, J. Gao, X. Yu.
+- title: "A load balancing approach for adaptive bitrate streaming in Information Centric networks. In Proceedings of Workshop on Multimedia Streaming in Information Centric Networks. Torino, Italy, July 2015."
+  authors: Divyashri Bhat, Cong Wang, Amr Rizk, Michael Zink.
 
-  - title: "Future Internets Escape the Simulator. Communications of the ACM. Accepted for publication."
-    authors: Mark Berman, Piet Demeester, Jae Woo Lee, Kiran Nagaraja, Michael Zink, Didier Colle, Dilip Kumar Krishnappa, Dipankar Raychaudhuri, Henning Schulzrinne, Ivan Seskar, Sachin Sharma.
+- title: "Optimizing the Video Transcoding Workflow in Content Delivery Networks. In proceedings of the 6th ACM Multimedia Systems Conference (MMSys), 37-48, Portland OR, USA, February 2015."
+  authors: Dilip Kumar Krishnappa, Michael Zink, and Ramesh Sitaram.
 
-  - title: "Towards Seamless Application Delivery using Software Defined Exchanges. In Proceedings of Workshop onFederated Future Internet and Distributed Cloud Testbeds (FIDC), Karlskrona, Sweden, September 2014."
-    authors: Divyashri Bhat, Niky Riga, Michael Zink.
+- title: "iSPUW: A Vision for Integrated Sensing and Prediction of Urban Water for Sustainable Cities. To appear in Proceedings of DyDEES, Boston, MA, USA, November 2014."
+  authors: Seo D.J. , B. Kerke, M. Zink, N. Fang, J. Gao, X. Yu.
+
+- title: "Future Internets Escape the Simulator. Communications of the ACM. Accepted for publication."
+  authors: Mark Berman, Piet Demeester, Jae Woo Lee, Kiran Nagaraja, Michael Zink, Didier Colle, Dilip Kumar Krishnappa, Dipankar Raychaudhuri, Henning Schulzrinne, Ivan Seskar, Sachin Sharma.
+
+- title: "Towards Seamless Application Delivery using Software Defined Exchanges. In Proceedings of Workshop onFederated Future Internet and Distributed Cloud Testbeds (FIDC), Karlskrona, Sweden, September 2014."
+  authors: Divyashri Bhat, Niky Riga, Michael Zink.
 
   - title: "Adaptive Wireless Mesh Networks: Surviving Weather Without Sensing It. Elsevier Computer Communications.Vol. 54,120-130, 2014."
     authors: Nauman Javed, Eric Lyons, Michael Zink, Tilman Wolf.

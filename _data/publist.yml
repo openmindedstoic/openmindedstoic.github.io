@@ -1,4 +1,4 @@
-- date: "2016"
+- title: "2016"
 
 - title: "SQUAD: A Spectrum-based Quality Adaptation for Dynamic Adaptive Streaming over HTTP. In Proceedings of the ACM Multimedia Systems Conference (accepted for publication), 2016."
   authors: Cong Wang, Amr Rizk, and Michael Zink. 
@@ -9,7 +9,7 @@
 - title: "Cache-centric Video Recommendation: An Approach to Improve the Efficiency of YouTube Caches. ACM Transactions on Multimedia Computing, Communications and Applications. 11(4),48:1-48:20, 2015."
   authors: Dilip Kumar Krishnappa, M. Zink, C. Griwodz, P. Halvorsen.
   
-- year: "2015"
+- title: "2015"
 
 - title: "Future Internets Escape the Simulator. Communications of the ACM. 58(6), 78-89, 2015."
   authors: Mark Berman, Piet Demeester, Jae Woo Lee, Kiran Nagaraja, Michael Zink, Didier Colle, Dilip Kumar Krishnappa, Dipankar Raychaudhuri, Henning Schulzrinne, Ivan Seskar, Sachin Sharma.

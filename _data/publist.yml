@@ -1,5 +1,6 @@
 - title: "2016"
   authors: "*************"
+  
 - title: "SQUAD: A Spectrum-based Quality Adaptation for Dynamic Adaptive Streaming over HTTP. In Proceedings of the ACM Multimedia Systems Conference (accepted for publication), 2016."
   authors: Cong Wang, Amr Rizk, and Michael Zink. 
 
@@ -7,6 +8,8 @@
   authors: Zdravko Bozakov, Amr Rizk, Divyashri Bhat, and Michael Zink.
   
 - title: "2015"
+  authors: "*************"
+  
 - title: "Cache-centric Video Recommendation: An Approach to Improve the Efficiency of YouTube Caches. ACM Transactions on Multimedia Computing, Communications and Applications. 11(4),48:1-48:20, 2015."
   authors: Dilip Kumar Krishnappa, M. Zink, C. Griwodz, P. Halvorsen.
 
@@ -24,6 +27,8 @@
  
  
 - title: "2014"
+  authors: "*************"
+  
 - title: "iSPUW: A Vision for Integrated Sensing and Prediction of Urban Water for Sustainable Cities. To appear in Proceedings of DyDEES, Boston, MA, USA, November 2014."
   authors: Seo D.J. , B. Kerke, M. Zink, N. Fang, J. Gao, X. Yu.
 
@@ -39,8 +44,9 @@
 - title: "On the Feasibility of DASH Streaming in the Cloud, In Proceeding of NOSSDAV 2014, Singapore, March 2014."
   authors: Cong Wang, Michael Zink
   
-  
 - title: "2013"
+  authors: "*************"
+  
 - title: "Mobile User Experience for DASH and WebRTC Video Services. In International Packet Video Workshop 2013, San Jose, CA, USA, December 2013."
   authors: Fraida Fund, Cong Wang, Yong Liu, Thanasis Korakis, Michael Zink, Shivendra Panwar.
 
@@ -59,8 +65,9 @@
 - title: "GreenCache: Augmenting Off-the-Grid Cellular Towers with Multimedia Caches. In Proceeding of  the Multimedia Systems Conference (MMSys’13), Oslo, Norway, February 2013."
   authors: Navin Sharma, Dilip Kumar Krishnappa, David Irwin, Michael Zink, Prashant Shenoy.
   
-
 - title: "2012"
+  authors: "*************"
+  
 - title: "CloudCast: Cloud Computing for Short-term Mobile Weather Forecasts. In Proceedings of the IEEE IPCCC 2012, Austin, TX, USA, December 2012."
   authors: Dilip Kumar Krishnappa, Eric Lyons, David Irwin, and Michael Zink.
 
@@ -86,6 +93,8 @@
   authors: Samamon Khemmarat, Renjie Zhou, D. Krishnappa, Lixin Gao, and Michael Zink.
   
 - title: "2011"
+  authors: "*************"
+  
 - title: "Dense Radar Networks for Low-Flyer Surveillance. In Proceedings of the 2011 International Conference on Technologies for Homeland Security (HST), Boston, MA, USA, November 2011."
   authors: David Pepyne, David McLaughlin, David Westbrook, Eric Lyons, Eric Knapp, Steve Frasier, and Michael Zink. 
   
@@ -111,6 +120,8 @@
   authors: David Pepyne, Michael Zink, Jerald Brotzge, Eric Knapp, Alexander Mendes, Brian McCarthy, Sean Klaiber, and Bettina Benito‐Figueroa. 
 
 - title: "2010"
+  authors: "*************"
+  
 - title: "Automated Negotiation with Decommitment for Dynamic Resource Allocation in Cloud Computing. In Proceedings of the 9th International Joint Conference on Autonomous Agents and Multi-Agent Systems (AAMAS’10), Montreal, Canada, May 2010."
   authors: Bo An, Victor Lesser, David Irwin, and Michael Zink.
 
@@ -119,3 +130,33 @@
 
 - title: "Resource Management in Data-Intensive Clouds: Opportunities and Challenges. In Proceedings of the 17th IEEE Workshop on Local and Metropolitan Area Networks (LANMAN), Long Branch, NJ, USA, May 2010."
   authors: David Irwin, Prashant Shenoy, Emmanuel Cecchet, and Michael Zink.
+  
+- title: "2009"
+  authors: "*************"
+  
+- title: "Separation of Sensor Control and Data in Closed-Loop Sensor Networks. In Proceedings of IEEE SECON 2009, Rome, Italy, June 2009"
+  authors: Victoria Manfredi, Jim Kurose, Naceur Malouch, Chun Zhang, and Michael Zink.
+  
+- title: "FloorNet: Deployment and Evaluation of a Multihop Wireless 802.11 Testbed. EURASIP Journal on Wireless Communications and Networking."
+  authors: Pablo Serrano, Carlos Bernardos, Antonio de la Oliva, Albert Banchs, Ignacio Soto, Michael Zink.
+
+- title: "Short-Wavelength Technology and the Potential for Distributed Networks of Small Radar Systems. Bulletin of the American Meteorological Society. April 2009."
+  authors: David McLaughlin, David Pepyne, V.Chandrasekar, Brenda Philips, James Kurose, Michael Zink.
+
+- title: "Separation of Sensor Control and Data in Closed-Loop Sensor Networks. To appear in SECON 2009."
+  authors: Victoria Manfredi, Jim Kurose, Naceur Malouch, Chun Zhang, Michael Zink.
+
+- title: "Assessing the fidelity of COTS 802.11 sniffers. In Proceedings of IEEE Infocom 2009, Rio de Janeiro, Brasil, April 2009."
+  authors: Pablo Serrano, Michael Zink, Jim Kurose.
+  
+- title: "Capturing Data Uncertainty in High-Volume Stream Processing. In Proceedings of the Fourth biennial Conference on Innovative Data Systems, Pacific Grove, CA, January 2009."
+  authors: Yanlei Diao, Boduo Li, Anna Liu, Liping Peng, Charles Sutton, Thanh Tran, Michael Zink.
+  
+- title: "Incorporating emergency management needs in the development of weather radar networks. Journal of Emergency Management, 7(1), 45-52, March 2009."
+  authors: Ellen Bass, Leigh Baumgart, Brenda Philips, Kevin Kloesel, Kathleen Dougherty, Havidán Rodriguez, William Donner, Jenniffer Santos, Walter Diaz, Michael Zink.
+  
+- title: "Characteristics of YouTube Network Traffic at a Campus Network - Measurements, Models, and Implications. Elsevier Computer Networks. Vol. 53, No. 4, March 2009."
+  authors: Michael Zink, Kyoungwon Suh, Yu Gu, and Jim Kurose.
+  
+- title: "Closed-loop Architecture for Distributed Collaborative Adaptive Sensing of the Atmosphere: Meteorological Command & Control. International Journal for Sensor Networks (IJSNET)(Vol.6 No.4). In print."
+  authors: Michael Zink, Eric Lyons, David Westbrook, Jim Kurose, and David Pepyne.

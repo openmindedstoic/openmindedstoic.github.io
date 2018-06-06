@@ -9,7 +9,7 @@ permalink: /team/
 # Group Members
 
 
-Jump to [director](#director), [phd students](#phd-students), [master and bachelor students](#master-and-bachelor-students), [lab visitors](#lab-visitors).
+Jump to [director](#director), [phd students](#phd-students), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni).
 
 ## Director
 {% assign number_printed = 0 %}
@@ -200,11 +200,6 @@ Jump to [director](#director), [phd students](#phd-students), [master and bachel
     <td> Dilip Krishnappa Kumar, June 2015</td>
     <td> </td>
     <td> </td>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
 
 

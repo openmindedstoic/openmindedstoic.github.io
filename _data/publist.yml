@@ -143,8 +143,11 @@
 - title: "Separation of Sensor Control and Data in Closed-Loop Sensor Networks. In Proceedings of IEEE SECON 2009, Rome, Italy, June 2009"
   authors: Victoria Manfredi, Jim Kurose, Naceur Malouch, Chun Zhang, and Michael Zink.
   
-- title: "FloorNet: Deployment and Evaluation of a Multihop Wireless 802.11 Testbed. EURASIP Journal on Wireless Communications and Networking."
+- title: "FloorNet: Deployment and Evaluation of a Multihop Wireless 802.11 Testbed."
   authors: Pablo Serrano, Carlos Bernardos, Antonio de la Oliva, Albert Banchs, Ignacio Soto, Michael Zink.
+  link:
+    url: https://journals.ametsoc.org/doi/abs/10.1175/2009BAMS2507.1
+    display: EURASIP Journal on Wireless Communications and Networking. 
 
 - title: "Short-Wavelength Technology and the Potential for Distributed Networks of Small Radar Systems. Bulletin of the American Meteorological Society. April 2009."
   authors: David McLaughlin, David Pepyne, V.Chandrasekar, Brenda Philips, James Kurose, Michael Zink.
@@ -161,8 +164,11 @@
 - title: "Incorporating emergency management needs in the development of weather radar networks. Journal of Emergency Management, 7(1), 45-52, March 2009."
   authors: Ellen Bass, Leigh Baumgart, Brenda Philips, Kevin Kloesel, Kathleen Dougherty, Havidán Rodriguez, William Donner, Jenniffer Santos, Walter Diaz, Michael Zink.
   
-- title: "Characteristics of YouTube Network Traffic at a Campus Network - Measurements, Models, and Implications. Elsevier Computer Networks. Vol. 53, No. 4, March 2009."
+- title: "Characteristics of YouTube Network Traffic at a Campus Network - Measurements, Models, and Implications."
   authors: Michael Zink, Kyoungwon Suh, Yu Gu, and Jim Kurose.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1389128608003423?via%3Dihub
+    display: Elsevier Computer Networks. Vol. 53, No. 4, March 2009.
   
 - title: "Closed-loop Architecture for Distributed Collaborative Adaptive Sensing of the Atmosphere: Meteorological Command & Control. International Journal for Sensor Networks (IJSNET)(Vol.6 No.4). In print."
   authors: Michael Zink, Eric Lyons, David Westbrook, Jim Kurose, and David Pepyne.
@@ -174,20 +180,28 @@
 - title: "OTGsim: Simulation of an Off-the-Grid Radar Network with High Sensing Energy Cost. In Proceeding of IEEE SECON 2008. Technical Report version of the paper."
   authors: Brian Donovan, David McLaughlin, Michael Zink, Jim Kurose.
 
-- title: "Distributed Collaborative Adaptive Sensor Networks for Remote Sensing Applications. In Proceedings of American Control Conference, June 2008."
+- title: "Distributed Collaborative Adaptive Sensor Networks for Remote Sensing Applications."
   authors: Dave Pepyne, David Westbrook, Brenda Philips, Eric Lyons, Michael Zink, and Jim Kurose.
+  link:
+    url: http://www-net.cs.umass.edu/~zink/publications/2008ACC.pdf
+    display: In Proceedings of American Control Conference, June 2008.
 
-- title: "Watch Global Cache Local: YouTube Network Traces at a Campus Network - Measurements and Implications. In Proceedings of MMCN 2008, San Jose, CA, USA, Jan 2008. Best Paper Award!"
+- title: "Watch Global Cache Local: YouTube Network Traces at a Campus Network - Measurements and Implications."
   authors: Michael Zink, Kyoungwon Su, Yu Gu, and Jim Kurose.
+  link:
+    url: http://gaia.cs.umass.edu/networks/papers/MMCN08-0.2.pdf
+    display: In Proceedings of MMCN 2008, San Jose, CA, USA, Jan 2008. Best Paper Award!
+
 
 - title: ""  
 - title: "2007"
   authors: "*************"
   
-- title: "Multi-user Data Sharing in Radar Sensor Networks. In Proceedings of The 5th ACM Conference on Embedded Networked Sensor Systems (Sensys 2007), Sydney, Australia, Nov 2007."
+- title: "Multi-user Data Sharing in Radar Sensor Networks."
   authors: Ming Li, Tingxin Yan, Deepak Ganesan, Eric Lyons, Prashant Shenoy, Arun Venkataramani, and Michael Zink.
   link:
     url: http://www-net.cs.umass.edu/~zink/publications/SenSys07-Utility.pdf
+    display: In Proceedings of The 5th ACM Conference on Embedded Networked Sensor Systems (Sensys 2007), Sydney, Australia, Nov 2007
 
 - title: "The Impact of Directional Antenna Orientation, Spacing, and Channel Separation on Long-distance Multi-hop 802.11g Networks: A Measurement Study. In Proceedings of the third International Workshop on Wireless Network Measurements (WiNMee), Limassol, Cyprus, April 2007."
   authors: Timothy Ireland, Adam Nyzio, Michael Zink, Jim Kurose.

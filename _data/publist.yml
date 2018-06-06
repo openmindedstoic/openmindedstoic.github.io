@@ -23,7 +23,6 @@
  
  
 - title: "2014"
-  
 - title: "iSPUW: A Vision for Integrated Sensing and Prediction of Urban Water for Sustainable Cities. To appear in Proceedings of DyDEES, Boston, MA, USA, November 2014."
   authors: Seo D.J. , B. Kerke, M. Zink, N. Fang, J. Gao, X. Yu.
 
@@ -41,7 +40,6 @@
   
   
 - title: "2013"
-
 - title: "Mobile User Experience for DASH and WebRTC Video Services. In International Packet Video Workshop 2013, San Jose, CA, USA, December 2013."
   authors: Fraida Fund, Cong Wang, Yong Liu, Thanasis Korakis, Michael Zink, Shivendra Panwar.
 
@@ -62,7 +60,6 @@
   
 
 - title: "2012"
-
 - title: "CloudCast: Cloud Computing for Short-term Mobile Weather Forecasts. In Proceedings of the IEEE IPCCC 2012, Austin, TX, USA, December 2012."
   authors: Dilip Kumar Krishnappa, Eric Lyons, David Irwin, and Michael Zink.
 
@@ -86,3 +83,28 @@
   
 - title: "Watching User Generated Videos with Prefetching. International Journal on Signal Processing: Image Communication. 27(4), 343-359, April 2012."
   authors: Samamon Khemmarat, Renjie Zhou, D. Krishnappa, Lixin Gao, and Michael Zink.
+  
+- title: "2011"
+- title: "Dense Radar Networks for Low-Flyer Surveillance. In Proceedings of the 2011 International Conference on Technologies for Homeland Security (HST), Boston, MA, USA, November 2011."
+  authors: David Pepyne, David McLaughlin, David Westbrook, Eric Lyons, Eric Knapp, Steve Frasier, and Michael Zink. 
+  
+- title: "Planet  YouTube: Global, Measurement-based Performance Analysis of Viewer’s Experience Watching User Generated Videos. In Proceedings of 6th IEEE Workshop on Network Measurements, Bonn, Germany, October 2011."
+  authors: Dilip Kumar Krishnappa, Samamon Khemmarat, and Michael Zink.
+
+- title: "Agent-mediated Multi-step Optimization for Resource Allocation in Distributed Sensor Networks. In Proc. of 10th Int. Conf. on Autonomous Agents and Multiagent Systems – Innovative Applications Track (AAMAS 2011), Taipei, Taiwan, May 2011."
+  authors: Bo An, Victor Lesser, David Westbrook, and Michael Zink.
+
+- title: "Off-the-Grid Weather Radar Network for Precipitation Monitoring in Western Puerto Rico. In Proceedings of the International Symposium in Weather Radar and Hydrology, Exeter, United Kingdom, April 2011."
+  authors: J.M. Trabal, G.A. Pablos-Vega, J.G. Colom-Ustariz, J.A. Ortiz, S. Cruz-Pol, D.J. McLaughlin, M. Zink, and V. Chandrasekar.
+
+- title: "On the Feasibility of Prefetching and Caching for Online TV Services: A Measurement Study on Hulu. In Proceedings of Passive and Active Measurement Conference (PAM’11), Atlanta, GA, March 2011."
+  authors: Dilip Kumar Krishnappa, Samamon Khemmarat, Lixin Gao, and Michael Zink.
+  
+- title: "Watching User Generated Videos with Prefetching. . In Multimedia Systems Conference (MMSys’11), San Jose, CA, February 2011"
+  authors: Samamon Khemmarat, Renjie Zhou, Lixin Gao, and Michael Zink.
+  
+- title: "MultiSense: Fine-grained Multiplexing for Steerable Camera Sensor Networks. In  Multimedia Systems Conference (MMSys’11), San Jose, CA, February 2011."
+  authors: Navin Sharma, David Irwin, Prashant Shenoy, and Michael Zink.
+  
+- title: "An Integrated Radar Infrasound Network for Meteorological Infrasound Detection and Analysis. In Proceeding of the 91st American Meteorological Society Annual Meeting, Seattle, WA, January 2011."
+  authors: David Pepyne, Michael Zink, Jerald Brotzge, Eric Knapp, Alexander Mendes, Brian McCarthy, Sean Klaiber, and Bettina Benito‐Figueroa. 

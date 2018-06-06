@@ -1,12 +1,16 @@
 - title: "2018"
   authors: "*************"
-
+  
+- title: "SABR: Network Assisted Content Distribution for QoE-driven Adaptive Bitrate Video Streaming. Accepted for publication in ACM Transactions on Multimedia Computing,Communications and Applications, Special Issue on SI: QoE Management for Multimedia Services. 14(2), 2018"
+  authors: Divyashri Bhat, Amr Rizk,Michael Zink, Ralf Steinmetz.
+  
+- title: "An Evaluation of SDN and NFV Support for Parallel, Alternate Protocol Stack Operations. To appear in Proceedings of the IEEE ICC 2018 Communications Software, Services, and Multimedia ApplicationsSymposium, Kansas City, MO, May 2018."
+  authors: Bhushan Suresh, Divyashri Bhat and Michael Zink.
+  
+- title: "" 
 - title: "2017"
   authors: "*************"
   
-- title: ""
-  authors:
-
 - title: "Design and Analysis of QoE-Aware Quality Adaptation for DASH: A Spectrum-BasedApproach.ACM Transactions on Multimedia Computing, Communications and Applications.13, 3s, Article 45 (July 2017), 24 pages. DOI:https://doi.org/10.1145/3092839"
   authors: Cong Wang, Divyashri Bhat, Amr Rizk, and Michael Zink.
 
@@ -31,7 +35,7 @@
 - title: "Virtualizing Closed-loop Sensor Networks: A Case Study.In Proceedings of SENSORNETS 2017, Porto, Portugal, February 2017."
   authors: Priyanka Kedalagudde and Michael Zink.
 
-
+- title: "" 
 - title: "2016"
   authors: "*************"
   
@@ -47,6 +51,7 @@
 - title: "QoE Analysis of DASH Cross-Layer Dependencies by Extensive Network Emulation. In Proceedings of the 2016 workshop on QoE-based Analysis and Management of Data Communication Networks, Florianopolis, Brazil, August 2016."  
   authors: Denny Stohr,Alexander Frömmgen,Jan Fornoff,Michael Zink,Alejandro Buchmann,Wolfgang Effelsberg.
   
+- title: ""   
 - title: "2015"
   authors: "*************"
   

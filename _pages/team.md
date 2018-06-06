@@ -9,7 +9,7 @@ permalink: /team/
 # Group Members
 
 
-Jump to [director](#director), [phd students](#phd-students), [master and bachelor students](#master-and-bachelor-students), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [director](#director), [phd students](#phd-students), [master and bachelor students](#master-and-bachelor-students), [lab visitors](#lab-visitors).
 
 ## Director
 {% assign number_printed = 0 %}
@@ -141,6 +141,7 @@ Jump to [director](#director), [phd students](#phd-students), [master and bachel
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -186,54 +187,16 @@ Jump to [director](#director), [phd students](#phd-students), [master and bachel
 
 ## Alumni
 <table align="center" style="width:100%">
-<tr><th>Visitors</th>
-    <th>Master Students</th> 
-    <th>Bachelor Students</th>
+<tr><th>PhD Students</th>
+    <th>Master Students</th>
+    <th>Visitors</th>
   </tr>
   <tr>
-    <td>Nikolaos Iliopoulos, Spring 2016</td>
-    <td>Tjerk Benschop, Summer 2017</td>
-    <td>Vishnu Saj, Spring 2017</td>
-  </tr>
-  <tr>
-    <td>Vitaly Fedoseev, all of 2016</td>
-    <td>Oliver Ostojic, Spring 2016</td>
-    <td>Joey Braspenning, Spring 2017</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Farshaad Hoeseni, Fall 2015</td>
-    <td>Margot Leemker, Spring 2017</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Sietske Lensen, Spring 2017</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Alexander Vanstone, Spring 2016</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Tjerk Benschop, Spring 2016</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Arjo Andringa, Spring 2016</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Daniëlle van Klink, Spring 2016</td>
+    <td>Cong Wang, Fall 2017</td>
+    <td>Bhushan Suresh, Spring 2018</td>
+    <td>Amr Rizk, Spring 2016</td>    
   </tr>
 </table>
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
 
 
 

@@ -7,6 +7,7 @@ permalink: /teaching
 ---
 
 # Teaching
+------
 
 ### 2018
 * [ECE 671: Computer Networks](http://www.ecs.umass.edu/ece671/index.html) (Spring)

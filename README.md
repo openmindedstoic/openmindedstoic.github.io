@@ -1,4 +1,4 @@
-# Dabbeling with Jekyll
+# Dabbling with Jekyll
 
 The purpose of this website is to be a collection of various hats of
 my personality, as i believe people have quite a variety of them and identifying 
